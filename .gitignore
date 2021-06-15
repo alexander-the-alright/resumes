@@ -1,0 +1,9 @@
+# .gitignore as a whitelist
+
+# exclude everything
+*
+
+# "dis-exclude" .gitignore, README.md, and the final version of the resume
+!.gitignore
+!README.md
+!celani_resume.pdf
